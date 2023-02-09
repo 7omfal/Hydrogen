@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.bbl
+*.xml
+*.bcf
+*.blg
+*Notes.bib
+*.synctex.gz
+/.auctex-auto/
